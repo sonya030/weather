@@ -1,0 +1,100 @@
+/* body {
+  background: url(../../public/images/sky.jpg), #33333395;
+  background-blend-mode: multiply;
+} */
+.WeatherApi {
+  width: 100vw;
+  height: 100vh;
+  background-color: #33333395;
+  background-blend-mode: multiply;
+  background-size: cover;
+}
+.App {
+  width: 700px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.ClipLoader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.WeatherWrap {
+  width: 600px;
+  height: 320px;
+  background: #fff;
+  box-shadow: 0 0 10px #555, inset 0 0 15px lightgray;
+  border-radius: 0.8rem;
+  margin: 3rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.WeatherBox {
+  width: 100%;
+  height: 250px;
+  /* background-image: url(../../public/images/rainyBG.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -120px;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+.top h3 {
+  font-size: 1.5rem;
+  line-height: 0;
+}
+.top p {
+  line-height: 0.5;
+}
+.bottom {
+  margin-top: 4.5rem;
+}
+.bottom h1 {
+  font-size: 2.5rem;
+  line-height: 0;
+}
+.bottom h5 {
+  transform: translateX(5px);
+  font-size: 1rem;
+  line-height: 0.7;
+  display: flex;
+  align-items: center;
+}
+.WeatherBtn {
+  width: 100%;
+  height: 60px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.WeatherBtn .currentLocation {
+  /* background-image: url(../../public/images/location.svg); */
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.WeatherBtn .currentLocation:hover {
+  /* background-image: url(../../../images/location-white.svg); */
+}
+.WeatherBtn button {
+  width: 100px;
+  border: none;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgb(138, 187, 204), inset 0 0 10px rgb(193, 230, 241);
+  border-radius: 7px;
+  color: darkblue;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.35s;
+}
+.WeatherBtn button:hover {
+  background-color: rgb(142, 177, 241);
+  box-shadow: 0 0 5px rgb(75, 113, 184), inset 0 0 10px rgb(98, 141, 219);
+  color: whitesmoke;
+}
