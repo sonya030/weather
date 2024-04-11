@@ -42,11 +42,14 @@ npm start
 #### react-spinners: 로딩 스피너 컴포넌트  
 #### CSS: 스타일링  
 
-## :rainbow: 사용한 컬러 팔레트  
+## :rainbow: 사용한 컬러 팔레트
+
 #### 주조색
 <p>$\bf{\color{#c1e6f1}c1e6f1}$</p>
+
 #### 보조색
 <p>$\bf{\color{#8abbcc}8abbcc}$</p><p>$\bf{\color{#8eb1f1}8eb1f1}$</p><p>$\bf{\color{#628ddb}628ddb}$</p>  
+
 #### 강조색
 <p>$\bf{\color{#00008b}00008b}$</p>
 
