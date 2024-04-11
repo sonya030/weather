@@ -43,7 +43,7 @@ npm start
 #### CSS: 스타일링  
 
 ## :rainbow: 사용한 컬러 팔레트  
-#### 주조색: #c1e6f1  
+#### 주조색: #c1e6f1 ${\textsf{\color{#c1e6f1}#c1e6f1}}$ 
 #### 보조색: #8abbcc, #8eb1f1, #628ddb
 #### 강조색: #00008b
 
