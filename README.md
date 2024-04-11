@@ -45,8 +45,10 @@ npm start
 ## :rainbow: 사용한 컬러 팔레트  
 #### 주조색
 <p>$\bf{\color{#c1e6f1}c1e6f1}$</p>
-#### 보조색: #8abbcc, #8eb1f1, #628ddb
-#### 강조색: #00008b
+#### 보조색
+<p>$\bf{\color{#8abbcc}8abbcc}$</p><p>$\bf{\color{#8eb1f1}8eb1f1}$</p><p>$\bf{\color{#628ddb}628ddb}$</p>  
+#### 강조색
+<p>$\bf{\color{#00008b}00008b}$</p>
 
 ## :earth_africa: 사용 방법  
 앱을 실행 후 위치를 허용하면 현재 위치의 날씨 정보가 자동으로 표시됩니다.  
