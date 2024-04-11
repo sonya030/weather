@@ -44,7 +44,7 @@ npm start
 
 ## :rainbow: 사용한 컬러 팔레트  
 #### 주조색
-<p>$\bd{\color{#c1e6f1}c1e6f1}$</p>
+<p>$\bf{\color{#c1e6f1}c1e6f1}$</p>
 #### 보조색: #8abbcc, #8eb1f1, #628ddb
 #### 강조색: #00008b
 
